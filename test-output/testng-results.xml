@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-06T02:53:05 IST" name="Default suite" finished-at="2023-02-06T02:53:11 IST" duration-ms="5299">
+    <groups>
+    </groups>
+    <test started-at="2023-02-06T02:53:05 IST" name="Default test" finished-at="2023-02-06T02:53:11 IST" duration-ms="5299">
+      <class name="files.Transaction">
+        <test-method signature="addTransaction(java.lang.String,java.lang.String)[pri:0, instance:files.Transaction@6aba2b86]" started-at="2023-02-06T02:53:05 IST" name="addTransaction" data-provider="TransactionData" finished-at="2023-02-06T02:53:11 IST" duration-ms="5220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[919]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTransaction -->
+      </class> <!-- files.Transaction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
